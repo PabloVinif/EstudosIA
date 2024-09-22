@@ -1,6 +1,5 @@
 # EstudosIA
-02
-Aqui está um resumo simplificado dos principais conceitos abordados na **Aula 02 - Introdução à Inteligência Artificial** para te ajudar a estudar para a prova:
+**Aula 02 - Introdução à Inteligência Artificial** 
 
 ### 1. **O que é Inteligência Artificial (IA)?**
 - IA busca **compreender e construir** entidades inteligentes que possam realizar tarefas que exigem **pensamento humano**, como tomar decisões, resolver problemas e aprender.
@@ -32,9 +31,9 @@ Aqui está um resumo simplificado dos principais conceitos abordados na **Aula 0
 - **Percepção**: Visão computacional e processamento de linguagem natural.
 - **Raciocínio**: Planejamento, tomada de decisões e resolução de problemas.
 
-03
+  
 
-Aqui está um resumo simplificado e focado nos principais conceitos para te ajudar a estudar para a prova:
+**Aula 03 - AGENTES** 
 
 ### 1. **Definição de Agente**
 - Um **agente** é qualquer entidade que percebe seu ambiente (sensores) e age sobre ele (atuadores).
@@ -83,9 +82,7 @@ Focar nesses conceitos principais vai te ajudar a entender como agentes intelige
 
 
 
-
-04
-Aqui está um resumo simplificado dos principais conceitos abordados na **Aula 04 - Arquiteturas de Agentes e Controle Hierárquico** para te ajudar a estudar para a prova:
+**Aula 04 - Arquiteturas de Agentes e Controle Hierárquico**
 
 ### 1. **Sistema de Agentes**
 - Um **agente** interage com o **ambiente** ao receber estímulos (sensores) e executar ações (atuadores).
